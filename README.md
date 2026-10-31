@@ -30,7 +30,8 @@ both give `Ш`. When nothing is waiting to combine, `+` types a literal
 
 ## Shortcuts and on/off
 
-- **Ctrl+Alt+T** turns it on or off. So does left-clicking the tray icon.
+- It starts switched off, so normal English typing isn't affected.
+  **Ctrl+Alt+T** turns it on or off. So does left-clicking the tray icon.
   The blue **RU** icon means on, grey means off.
 - Shortcuts that use Ctrl, Alt or Win (Ctrl+C, Alt+Tab, Win+E…) are never
   changed.
@@ -49,8 +50,8 @@ both give `Ш`. When nothing is waiting to combine, `+` types a literal
      with `winget`
    - copies the script to `%LOCALAPPDATA%\TranslitRU`
    - adds it to your Startup folder
-   - starts it
-3. Look for the blue **RU** icon in the tray. It may be hidden under the
+   - starts it, switched off
+3. Look for the grey **RU** icon in the tray. It may be hidden under the
    `^` arrow. You can drag it onto the taskbar so it's always visible.
 
 If Windows SmartScreen warns about the `.cmd` file, choose **More info →

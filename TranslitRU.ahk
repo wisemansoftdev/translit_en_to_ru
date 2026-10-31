@@ -15,7 +15,7 @@ KeyHistory 0
 ListLines false
 SendMode "Input"
 
-START_ENABLED := true
+START_ENABLED := false   ; start off; turn on with Ctrl+Alt+T or the tray icon
 
 ; ---------------------------------------------------------------- the rules --
 ; Letter -> Cyrillic when typed on its own.
